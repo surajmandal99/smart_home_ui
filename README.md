@@ -1,16 +1,7 @@
 # smart_home_ui
 
-A new Flutter project.
+# A new awesome looking Ui for Smart_Home devices which is just a simple UI for turning on and off the devices with dark and light mode 🪄
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#  Screenshot  for the UI .
+            👇
+![smart_home](https://user-images.githubusercontent.com/105273927/202857981-b18432d5-c67b-451b-8072-b8045af583a9.png)
